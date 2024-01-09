@@ -1,0 +1,10 @@
+{
+	"require": {
+		"php": ">=5.3.7",
+		"cboden/ratchet": "^0.4.4"
+	},
+	"require-dev": {
+		"mikey179/vfsstream": "1.6.*",
+		"phpunit/phpunit": "4.* || 5.* || 9.*"
+	}
+}
